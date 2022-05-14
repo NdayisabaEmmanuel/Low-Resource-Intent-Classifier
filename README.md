@@ -1,0 +1,2 @@
+# Low-Resource-Intent-Classifier
+This is an implementation of a baseline for low resource language intent classier model. The model recognizes a sequence of phonemes and output an intent.   To emulate a low resource situation, the model is trained and evaluated on different combinations of speakers and  utterances. Starting with one speaker and one utterance up to 7 speakers and 7 utterances. Basically the model is trained and evaluated on 49 different combinations.
